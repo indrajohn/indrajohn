@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Indra John Saputra</h1>
+<h1 align="center">Hi 👋, I'm Yoseph</h1>
 <h3 align="center">Full Stack Developer | API & Microservices Enthusiast | Freelancer</h3>
 
 <p align="center">
@@ -55,7 +55,7 @@
 ### 📫 Contact Me
 
 - 🌐 Website: [https://indrajohn.com.au](https://indrajohn.com.au)
-- 📧 Email: [contact@indrajohn.com.au](mailto:contact@indrajohn.com.au)
+- 📧 Email: [contact@indrajohn.com.au](mailto:admin@indrajohn.com.au)
 - 💼 Open to freelance or remote opportunities!
 
 ---
