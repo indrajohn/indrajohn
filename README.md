@@ -79,3 +79,13 @@ If you enjoy my work or it helped you, consider supporting me:
 ---
 
 > ⚡ _“I believe in delivering clean code, scalable systems, and reliable solutions for every project I touch.”_
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/indrajohn/indrajohn/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/indrajohn/indrajohn/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/indrajohn/indrajohn/output/pacman-contribution-graph.svg">
+</picture>
+
+###
