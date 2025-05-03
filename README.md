@@ -5,7 +5,7 @@
   <a href="https://indrajohn.com.au" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=Google-Chrome" alt="Portfolio" />
   </a>
-  <a href="mailto:contact@indrajohn.com.au">
+  <a href="mailto:admin@indrajohn.com.au">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
 </p>
@@ -55,7 +55,7 @@
 ### 📫 Contact Me
 
 - 🌐 Website: [https://indrajohn.com.au](https://indrajohn.com.au)
-- 📧 Email: [contact@indrajohn.com.au](mailto:admin@indrajohn.com.au)
+- 📧 Email: [admin@indrajohn.com.au](mailto:admin@indrajohn.com.au)
 - 💼 Open to freelance or remote opportunities!
 
 ---
