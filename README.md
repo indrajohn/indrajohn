@@ -20,11 +20,9 @@
 
 ### 💼 About Me
 
-🔧 I'm a Full Stack Developer based in Australia, passionate about building robust backend systems and seamless frontend experiences.
-🧠 I specialize in APIs, microservices, and scalable architectures that prioritize performance and maintainability.
-🌐 I’ve worked on projects for logistics, retail, and government sectors, focusing on practical solutions that meet real business needs.
-
----
+🔧 I'm a Full Stack Developer based in Australia, focused on building reliable backend systems and clean, usable frontends.  
+🧠 I enjoy working on APIs, messaging systems, and database-driven applications.  
+💼 I've worked on internal tools and web platforms for small businesses and B2B use cases, aiming to keep things simple, stable, and maintainable.
 
 ### 🛠️ Tech Stack
 
