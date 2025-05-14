@@ -24,10 +24,66 @@
 🧠 I enjoy working on APIs, messaging systems, and database-driven applications.  
 💼 I've worked on internal tools and web platforms for small businesses and B2B use cases, aiming to keep things simple, stable, and maintainable.
 
+---
+
 ### 🛠️ Tech Stack
 
-<!-- Same tech stack section as before with icons -->
-<!-- ... Keep previous stack with shields.io badges here ... -->
+#### 💻 Frontend
+
+- **React.js** – Building dynamic user interfaces
+- **Next.js** – Server-side rendering and SEO optimization
+- **Vue.js 3** – Progressive JavaScript framework
+- **Inertia.js** – Modern single-page applications without the complexity
+- **Tailwind CSS** – Utility-first CSS framework
+- **Bootstrap** – Responsive design components
+- **HTML5 & CSS3** – Markup and styling
+
+#### ⚙️ Backend
+
+- **Node.js** – JavaScript runtime for scalable network applications
+- **Express.js** – Web application framework for Node.js
+- **Spring Boot** – Java-based framework for microservices
+- **Spring Cloud Gateway** – API gateway for routing and filtering
+- **ASP.NET** – Framework for building web apps and services with .NET
+- **Flask** – Lightweight WSGI web application framework in Python
+- **PHP (Laravel 11)** – PHP framework for web artisans
+
+#### 🗄️ Databases
+
+- **MySQL** – Relational database management system
+- **Microsoft SQL Server** – Relational database developed by Microsoft
+- **MongoDB** – NoSQL document database
+- **Redis** – In-memory data structure store
+- **Datastax AstraDB** – Cloud-native database built on Apache Cassandra
+- **Prisma** – Next-generation ORM for Node.js and TypeScript
+
+#### 🔌 APIs & Integration
+
+- **RESTful APIs** – Architectural style for designing networked applications
+- **GraphQL** – Query language for APIs
+- **Swagger** – API design and documentation
+- **JWT Authentication** – JSON Web Tokens for secure authentication
+- **LangChain** – Framework for LLM-powered applications
+- **OpenAI API** – Access to advanced AI models
+
+#### ☁️ DevOps & Cloud
+
+- **Docker** – Containerization platform
+- **Kubernetes** – Container orchestration system
+- **AWS EC2** – Scalable computing capacity in the cloud
+- **Jenkins** – Automation server for CI/CD
+- **CircleCI** – Continuous integration and delivery platform
+- **Maven & Gradle** – Build automation tools
+- **CI/CD Pipelines** – Continuous integration and deployment workflows
+- **Linux** – Open-source operating system
+
+#### 🧰 Tools & Methodologies
+
+- **Git & GitHub** – Version control and collaboration
+- **NPM & Webpack** – Package management and bundling
+- **Jira** – Project management and issue tracking
+- **Test-Driven Development (TDD)** – Write tests before code
+- **Agile & Scrum** – Iterative development practices
 
 ---
 
